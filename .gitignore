@@ -72,7 +72,6 @@ coverage/
 downloaded_pages/
 novel_chapters/
 *.html
-*.txt
 cookies.json
 session.json
 
